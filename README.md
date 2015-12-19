@@ -1,6 +1,5 @@
 # African-short-stories
 ---
-<hr>
 <h3>Consists of Suubi and other stories.</h3>
 <hr>
 <b>Description</b></div>
